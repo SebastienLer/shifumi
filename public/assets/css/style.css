@@ -1,0 +1,28 @@
+@font-face {
+    font-family: Triforce;
+    src: url(/public/assets/font-family/Triforce.ttf);
+}
+
+
+
+body{
+    font-family: Triforce;
+    font-size: x-large;
+    background-color: #A6915C;
+    margin: 0;
+    padding: 0;
+}
+img{
+    width: 100%;
+}
+.Agahnim{
+    max-height: 50vh;
+}  
+h1{
+    color: #D61F25;
+}
+.weapon{
+    width: 25%;
+    max-height: 25%;
+    
+}
